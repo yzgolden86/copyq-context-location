@@ -61,7 +61,7 @@ In such cases, the command will prefer the most recent matching item.
 1. Open CopyQ
 2. Go to **Commands**
 3. Create a new command
-4. Paste the contents of [`commands/jump-to-original-history.ini`](commands/jump-to-original-history.ini)
+4. Paste the contents of [`jump-to-original-history.ini`]([commands/jump-to-original-history.ini](https://github.com/yzgolden86/copyq-context-location/blob/main/jump-to-original-history.ini))
 5. Save the command
 
 Suggested shortcut:
