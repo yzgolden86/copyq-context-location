@@ -65,9 +65,8 @@ In such cases, the command will prefer the most recent matching item.
 5. Save the command
 
 Suggested shortcut:
+  Ctrl+Shift+G
 
-```text
-Ctrl+Shift+G
 ## Usage
 1. Search in CopyQ history
 2. Select a matched item
