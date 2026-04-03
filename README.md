@@ -68,3 +68,16 @@ Suggested shortcut:
 
 ```text
 Ctrl+Shift+G
+Usage
+Search in CopyQ history
+Select a matched item
+Trigger the command
+CopyQ will jump back to the original history and select the corresponding item
+Command file
+See:
+
+commands/jump-to-original-history.ini
+Documentation
+For more details, see:
+
+docs/usage.md
